@@ -1,2 +1,1 @@
-# google-homepage
-google homepage practice
+This is Eyedeasforvictories first git project!
